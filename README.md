@@ -26,9 +26,7 @@ MLP neural network for Fashion-MNSIT dataset using pytorch library.
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
+Before starting you need to have [Git](https://git-scm.com) and [Python](https://www.python.org/).
 
 ```bash
 # Clone this project
