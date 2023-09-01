@@ -28,6 +28,8 @@ MLP neural network for Fashion-MNSIT dataset using pytorch library.
 
 Before starting you need to have [Git](https://git-scm.com) and [Python](https://www.python.org/).
 
+## :checkered_flag: Starting ##
+
 ```bash
 # Clone this project
 $ git clone https://github.com/{{komeilosali}}/mlp-fashion-mnsit
